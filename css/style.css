@@ -1,0 +1,35 @@
+.main-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px
+}
+.NewMockup1row0 {
+  position: relative;
+  display: flex;
+  margin-left: 298px;
+  margin-top: 168px;
+  width: 729px;
+  height: 214px
+}
+.NewMockup1row0unsupported0 {
+  margin-left: 0;
+  margin-top: 62px;
+  width: 130px;
+  height: 130px;
+  flex-shrink: 0
+}
+.style0 {
+  margin-left: 195px;
+  width: 209px;
+  height: 100%;
+  align-self: stretch;
+  flex-shrink: 0
+}
+.NewMockup1row0unsupported1 {
+  position: relative;
+  margin-left: 22px;
+  margin-top: 95px;
+  width: 173px;
+  height: 171px;
+  flex-shrink: 0
+}
